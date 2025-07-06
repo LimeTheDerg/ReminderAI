@@ -89,3 +89,5 @@ docker-compose.override.yml
 lib/
 lib64/
 include/
+pyvenv.cfg
+bin
